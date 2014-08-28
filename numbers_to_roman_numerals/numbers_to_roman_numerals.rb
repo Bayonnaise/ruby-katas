@@ -23,6 +23,6 @@ def number_to_roman_numeral(n)
 			n -= arabic
 		end
 	end
-
-	solution += ('I' * n)
+	
+	solution
 end
