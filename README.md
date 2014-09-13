@@ -3,6 +3,19 @@ Ruby katas
 
 A series of Ruby refresher challenges. Given a spec file, write a method that makes all the tests pass.
 
+**STATUS:** All complete.
+
+How to run tests
+--
+
+```shell
+git clone https://github.com/Bayonnaise/ruby-katas.git
+cd ruby-katas
+cd *chosen directory*
+rspec
+```
+
+
 Easy
 --
 
